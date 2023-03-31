@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-rest-api-example",
+  "version": "1.0.0",
+  "description": "Example of Node.js REST API on Docker",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/arpitPandeyji/ecs-fargate-terraform.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
