@@ -1,5 +1,5 @@
-ECS Fargate Terraform Deployment Pipeline
-
+**ECS Fargate Terraform Deployment Pipeline
+**
 This project establishes a seamless deployment pipeline for a web application using GitHub Actions for building and pushing Docker images to Amazon ECR upon changes pushed to the main branch, coupled with Terraform workflows to orchestrate the infrastructure setup on AWS ECS Fargate including VPC, Load Balancer, Target Group, Security Groups, ECS Cluster, ECS Service, ECS Task Definition, ECR, and IAM Role for ECS.
 
 Prerequisites
