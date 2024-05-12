@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "sky-1704"
+    organization = "skyfire-1704"
     workspaces {
       name = "ecs-fargate-github"
     }
